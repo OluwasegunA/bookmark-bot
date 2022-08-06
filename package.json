@@ -1,0 +1,11 @@
+{
+  "name": "bookmark-bot",
+  "version": "1.0.0",
+  "description": "This app is a twitter bot to categories bookmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oluwasegun A",
+  "license": "ISC"
+}
